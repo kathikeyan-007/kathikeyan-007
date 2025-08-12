@@ -1,5 +1,10 @@
+<!-- Full-width animated banner -->
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100%" alt="Coding Banner">
+
 # 👋 Hi, I'm Karthi Keyan  
 💻 Java Developer | 🚀 Placement Prep Enthusiast | 📚 Lifelong Learner  
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -18,19 +23,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathikeyan-007&show_icons=true&theme=radical)  
+## 📊 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kathikeyan-007&repo=REPO-NAME&theme=radical)](https://github.com/YOUR-USERNAME/REPO-NAME)
-
----
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kathikeyan-007&theme=react-dark)
 
 ---
 
