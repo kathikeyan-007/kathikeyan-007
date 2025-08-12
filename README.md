@@ -30,7 +30,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -50,7 +50,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html" />
+
 
 
 </div>
