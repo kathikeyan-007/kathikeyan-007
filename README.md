@@ -50,7 +50,8 @@
 
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html" />
+
 
 </div>
 
