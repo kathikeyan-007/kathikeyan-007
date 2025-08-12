@@ -19,18 +19,18 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathikeyan-007&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-NAME&theme=radical)](https://github.com/YOUR-USERNAME/REPO-NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kathikeyan-007&repo=REPO-NAME&theme=radical)](https://github.com/YOUR-USERNAME/REPO-NAME)
 
 ---
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kathikeyan-007&theme=react-dark)
 
 ---
 
