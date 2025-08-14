@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/karthikeyan-c-660567259/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:karthikeyan@example.com">
+  <a href="mailto:karthikeyan2004007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
