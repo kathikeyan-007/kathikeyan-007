@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C7D&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Karthi+Keyan;💻+Software+Developer;🚀+Placement+Prep+Enthusiast;📚+Lifelong+Learner" alt="Typing SVG" />
 </h1>
 <!-- Animated Coding GIF -->
-<img align="right" alt="Coding" width="387" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="389" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
