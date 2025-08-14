@@ -2,16 +2,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C7D&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Karthi+Keyan;💻+Software+Developer;🚀+Placement+Prep+Enthusiast;📚+Lifelong+Learner" alt="Typing SVG" />
 </h1>
-
 <!-- Animated Coding GIF -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
 ## 📌 About Me
+
  🔭 Currently working on **Java & Aptitude Prep**
+ 
  🌱 Learning **Intermediate Java Strings & HashMap**
+ 
  🎯 Goal: **Placement Ready by 2025**
+ 
  ⚡ Fun fact: I solve tricky logic puzzles for fun!
 
 
@@ -46,15 +49,18 @@
 <!-- Thick horizontal line -->
 <hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
 
+
 ## 📊 Most Languages Used
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical&bg_color=0,000000,130F40&title_color=E94560&text_color=F8F8F2" /> </p> 
 <!-- Thick horizontal line -->
 <hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
 
+
 ## 🚀 GitHub Stats <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathikeyan-007&theme=radical&fire=DD2727&ring=DD2727" /> </p>
 
 <!-- Thick horizontal line -->
 <hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
+
 
 ## 🌐 Connect with Me  
 <p align="center">
