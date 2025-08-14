@@ -4,17 +4,16 @@
 </h1>
 
 <!-- Animated Coding GIF -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
 ## 📌 About Me
-- 🔭 Currently working on **Java & Aptitude Prep**
-- 🌱 Learning **Intermediate Java Strings & HashMap**
-- 🎯 Goal: **Placement Ready by 2025**
-- ⚡ Fun fact: I solve tricky logic puzzles for fun!
+ 🔭 Currently working on **Java & Aptitude Prep**
+ 🌱 Learning **Intermediate Java Strings & HashMap**
+ 🎯 Goal: **Placement Ready by 2025**
+ ⚡ Fun fact: I solve tricky logic puzzles for fun!
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,19 +43,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+<!-- Thick horizontal line -->
+<hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
 
-## 📊 GitHub Stats & Activity
+## 📊 Most Languages Used
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical&bg_color=0,000000,130F40&title_color=E94560&text_color=F8F8F2" /> </p> 
+<!-- Thick horizontal line -->
+<hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
 
-<div align="center">
+## 🚀 GitHub Stats <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathikeyan-007&theme=radical&fire=DD2727&ring=DD2727" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kathikeyan-007&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathikeyan-007&show_icons=true&theme=radical)
-
-</div>
-
----
+<!-- Thick horizontal line -->
+<hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
 
 ## 🌐 Connect with Me  
 <p align="center">
@@ -67,3 +65,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<!-- Thick horizontal line -->
+<hr style="border: 0; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b); border-radius: 5px; margin: 20px 0;" />
+
