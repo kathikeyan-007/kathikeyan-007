@@ -1,9 +1,10 @@
+<!-- Animated Greeting -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C7D&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Karthi+Keyan;💻+Software+Developer;🚀+Placement+Prep+Enthusiast;📚+Lifelong+Learner" alt="Typing SVG" />
+</h1>
 
-
-# 👋 Hi, I'm Karthi Keyan  
-💻 Software Developer | 🚀 Placement Prep Enthusiast | 📚 Lifelong Learner  
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Animated Coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -17,10 +18,6 @@
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; align-items: center; justify-content: space-between; border: 2px solid #00BFFF; border-radius: 15px; padding: 20px; background-color: #0d1117;">
-
-<div>
-
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +27,6 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### **Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -48,21 +44,26 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</div>
-
-
-
-
-</div>
-
-
-
 ---
 
-## 📊 Languages Used
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kathikeyan-007&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathikeyan-007&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathikeyan-007&show_icons=true&theme=radical)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-c-660567259/)
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikeyan-c-660567259/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karthikeyan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
